@@ -1,0 +1,5 @@
+
+Name    StartType  Status
+----    ---------  ------
+spooler Automatic Running
+
